@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Metrics](https://github.com/skypotato/skypotato/blob/main/github-metrics.svg)
+![Metrics](https://github.com/Leepro1234/Leepro1234/blob/main/github-metrics.svg)
 
 ### Hi there 👋
 Welecome to skypotato's repository ~~
