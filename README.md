@@ -18,8 +18,5 @@ Here are some ideas to get you started:
 Welecome to skypotato's repository ~~
 
 ### Connect here👈
-- [Notion](https://skypotato.notion.site/afd9831a547049abba023720431826f2)
-- [LinkedIn](https://www.linkedin.com/in/%ED%98%84%EC%88%98-%EC%9D%B4-57ba58210)
-- [Tistroy](https://skypotato-note.tistory.com)
-- [Naver Blog](https://blog.naver.com/hunsooski)
+- [Tistroy](https://pizza301.tistory.com)
 <!-- [Homepage](http://skypotato.pe.kr) - 개발 중... -->
