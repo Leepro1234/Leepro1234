@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="버튼을 눌렀을 때 이동할 링크" target="https://pizza301.tistory.com"><img src="https://img.shields.io/badge/블로그-F55611?style=for-the-badge&logo=tistory&logoColor=222222"/></a>
+<a href="https://pizza301.tistory.com" target="_blank"><img src="https://img.shields.io/badge/블로그-F55611?style=for-the-badge&logo=tistory&logoColor=222222"/></a>
 
 
 ![Metrics](https://github.com/Leepro1234/Leepro1234/blob/main/github-metrics.svg)
