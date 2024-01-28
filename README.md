@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 <a href="https://www.youtube.com/channel/UCBOupbAAhF6at8bG6FQ7TTQ" target="_blank"><img src="https://img.shields.io/badge/Youtube-F55611?style=for-the-badge&logo=youtube&logoColor=#ff0000"/></a>
 
 
-### Hi there 👋
-Welecome to skypotato's repository ~~
+### 대빵이 깃허브입니다 👋
 
 <!--
 
