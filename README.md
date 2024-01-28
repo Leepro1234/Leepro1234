@@ -13,9 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://pizza301.tistory.com" target="_blank"><img src="https://img.shields.io/badge/블로그-F55611?style=for-the-badge&logo=tistory&logoColor=222222"/></a>
+<a href="https://www.youtube.com/channel/UCBOupbAAhF6at8bG6FQ7TTQ" target="_blank"><img src="https://img.shields.io/badge/Youtube-F55611?style=for-the-badge&logo=youtube&logoColor=222222"/></a>
 
-
-![Metrics](https://github.com/Leepro1234/Leepro1234/blob/main/github-metrics.svg)
 
 ### Hi there 👋
 Welecome to skypotato's repository ~~
